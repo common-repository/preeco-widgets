@@ -1,0 +1,16 @@
+/**
+ * All of the CSS for your admin-specific functionality should be
+ * included in this file.
+ */
+
+.post-type-preeco_widgets #poststuff #ed_toolbar, .post-type-preeco_widgets #poststuff #wp-content-editor-tools {
+    display: none;
+}
+
+.post-type-preeco_widgets #poststuff #wp-content-wrap {
+    padding-top: 15px !important;
+}
+
+.post-type-preeco_widgets #poststuff .wp-editor-area {
+    margin-top: 0 !important;
+}

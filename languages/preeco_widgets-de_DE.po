@@ -1,0 +1,131 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: preeco Widgets\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-04-20 13:35+0000\n"
+"PO-Revision-Date: 2021-03-03 11:12+0000\n"
+"Last-Translator: \n"
+"Language-Team: Deutsch\n"
+"Language: de_DE\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.5.1; wp-5.6.2"
+
+#: admin/class-preeco-widgets-admin.php:156
+msgid "Add New"
+msgstr "Neues Widget"
+
+#: admin/class-preeco-widgets-admin.php:155
+msgid "Add New Widget"
+msgstr "Neues Widget hinzufügen"
+
+#: admin/class-preeco-widgets-admin.php:154
+msgid "All Widgets"
+msgstr "Alle Widgets"
+
+#: admin/partials/preeco-widgets-admin-display.php:43
+msgid "Cache active"
+msgstr "Cache aktiviert"
+
+#: admin/partials/preeco-widgets-admin-display.php:42
+msgid "Cache inactive"
+msgstr "Cache deaktiviert"
+
+#. Description of the plugin
+msgid "Easy way to include preeco widgets"
+msgstr "Einfach preeco Widgets per Shortcode enfügen"
+
+#: admin/class-preeco-widgets-admin.php:158
+msgid "Edit Widget"
+msgstr "Widget bearbeiten"
+
+#: admin/partials/preeco-widgets-admin-display.php:38
+msgid "Enable caching"
+msgstr "Caching aktivieren"
+
+#: admin/class-preeco-widgets-admin.php:166
+msgid "Filter Widgets list"
+msgstr "Liste filtern"
+
+#. URI of the plugin
+#| msgid "https://www.preeco.de"
+msgid "https://preeco.de"
+msgstr "https://www.preeco.de"
+
+#. Author URI of the plugin
+msgid "https://www.preeco.de"
+msgstr "https://www.preeco.de"
+
+#: admin/partials/preeco-widgets-admin-display.php:18
+msgid "Local caching"
+msgstr "Widgets lokal ausliefern"
+
+#: admin/class-preeco-widgets-admin.php:157
+msgid "New Widget"
+msgstr "Neues Widget"
+
+#: admin/class-preeco-widgets-admin.php:162
+msgid "Not found"
+msgstr "Nicht gefunden"
+
+#: admin/class-preeco-widgets-admin.php:163
+msgid "Not found in Trash"
+msgstr "Nicht im Papierkorb gefunden"
+
+#. Author of the plugin
+msgid "preeco GmbH"
+msgstr "preeco GmbH"
+
+#: admin/class-preeco-widgets-admin.php:151
+#: admin/class-preeco-widgets-admin.php:153
+#: admin/class-preeco-widgets-admin.php:170
+msgid "preeco Widget"
+msgstr "preeco Widget"
+
+#. Name of the plugin
+#: admin/class-preeco-widgets-admin.php:150
+#: admin/class-preeco-widgets-admin.php:152
+#: admin/partials/preeco-widgets-admin-display.php:17
+msgid "preeco Widgets"
+msgstr "preeco Widgets"
+
+#: admin/class-preeco-widgets-admin.php:161
+msgid "Search Widget"
+msgstr "Widget suchen"
+
+#: admin/class-preeco-widgets-admin.php:212
+msgid "Shortcode"
+msgstr "Shortcode"
+
+#: admin/class-preeco-widgets-admin.php:171
+msgid "Store your preeco Widget embed codes for easy access"
+msgstr "Verwalte deine preeco Widgets und füge Sie per Shortcode einfach ein"
+
+#: admin/partials/preeco-widgets-admin-display.php:21
+msgid ""
+"The content of the widgets can be cached and delivered locally if desired. "
+"In this case, the content of the widget is requested from the server on a "
+"daily basis."
+msgstr ""
+"Die Inhalte der Widgets können gecached und lokal ausgeliefert werden. "
+"Hierbei werden die Inhalten der Widgets einmal täglich neu vom Server "
+"geladen."
+
+#: admin/class-preeco-widgets-admin.php:159
+msgid "Update Widget"
+msgstr "Widget aktualisieren"
+
+#: admin/class-preeco-widgets-admin.php:160
+msgid "View Widget"
+msgstr "Widget anzeigen"
+
+#: admin/class-preeco-widgets-admin.php:164
+msgid "Widgets list"
+msgstr "Widget Liste"
+
+#: admin/class-preeco-widgets-admin.php:165
+msgid "Widgets list navigation"
+msgstr "Widget Listennavigation"
